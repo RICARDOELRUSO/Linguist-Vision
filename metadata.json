@@ -1,0 +1,8 @@
+{
+  "name": "LinguistVision: AI English Tutor",
+  "description": "An interactive English teacher that generates unique images and videos to help you expand your vocabulary and descriptive skills through visual prompts and real-time AI feedback.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
